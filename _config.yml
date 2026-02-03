@@ -227,6 +227,7 @@ jekyll-archives:
 
 plugins:
   - jekyll-polyglot
+  - jekyll-gfm-admonitions
 
 languages: ["en", "ja"]
 default_lang: "en"
